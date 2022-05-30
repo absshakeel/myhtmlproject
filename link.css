@@ -1,0 +1,14 @@
+h1{
+    background-color: red;
+}
+h1{
+    background-color: blueviolet;
+}
+.box{
+    /* background-color: gold; */
+    /* background-color: #ffd700; */
+    background-color: #00f836b9;
+    color: #fff;
+    border: 5px solid red;
+    outline: 10px solid black;
+}
